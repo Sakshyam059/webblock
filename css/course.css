@@ -127,11 +127,11 @@
     .csit-main{
         grid-template-columns: auto;
         width: 84vw;
-        margin-left: 30px;
+        margin-left: 23px;
     
     }
     .csit-box{
-        width: 84vw;
+        width: 88vw;
         margin-left: 0px;
     }
     .subjects>ul>li{
