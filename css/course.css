@@ -55,7 +55,7 @@
     
 }
 .subjects>ul>li>a{
-    margin-left: 10px;
+    margin-left: 0px;
     padding-left: 5px;
     padding-right: 0px;
     
@@ -126,12 +126,12 @@
 @media screen and (min-width:240px) and (max-width:540px) {
     .csit-main{
         grid-template-columns: auto;
-        width: 72vw;
-        margin-left: 40px;
+        width: 84vw;
+        margin-left: 30px;
     
     }
     .csit-box{
-        width: 78vw;
+        width: 84vw;
         margin-left: 0px;
     }
     .subjects>ul>li{
